@@ -1,0 +1,9 @@
+development:
+  from: '35353'
+  sid: 'ACee0e491909f4aade9918a481bae69998'
+  token: '307033330885f83fd7fd10336fb57a7c'
+  
+production:
+  from: '35353'
+  sid: 'ACee0e491909f4aade9918a481bae69998'
+  token: '307033330885f83fd7fd10336fb57a7c'
